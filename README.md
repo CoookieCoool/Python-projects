@@ -13,7 +13,6 @@ Stop-line + safe distance collision avoidance
 
 Multithreading for smooth performance 
 
-0fe52c4d-39fa-4d1d-91d3-0c4e284…
 
 Tech Stack
 
