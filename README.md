@@ -13,7 +13,6 @@ Stop-line + safe distance collision avoidance
 
 Multithreading for smooth performance 
 
-
 Tech Stack
 
 Python, Pygame, Threading, OOP Concepts
